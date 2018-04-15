@@ -94,7 +94,6 @@ namespace ConsoleAppLab4
             return new Square(element2.b0 + element1.b0, element2.b1 + element1.b1, element2.b2 + element1.b2);
         }
     }
-
     class Cube : Square
     {
         protected double a0;
@@ -194,7 +193,6 @@ namespace ConsoleAppLab4
         }
 
     }
-
 
     class Program
     {
